@@ -1,0 +1,33 @@
+<molecule>
+ <atomArray>
+  <atom id="a1" elementType="C" x3="-0.501174" y3="3.481958" z3="-0.290753"/>
+  <atom id="a2" elementType="C" x3="-1.188574" y3="4.620290" z3="0.465405"/>
+  <atom id="a3" elementType="H" x3="-1.908779" y3="5.146654" z3="-0.171403"/>
+  <atom id="a4" elementType="H" x3="-0.461996" y3="5.356356" z3="0.828134"/>
+  <atom id="a5" elementType="H" x3="-1.734611" y3="4.238979" z3="1.335767"/>
+  <atom id="a6" elementType="C" x3="-1.537329" y3="2.481981" z3="-0.807015"/>
+  <atom id="a7" elementType="H" x3="-2.094597" y3="2.031793" z3="0.022362"/>
+  <atom id="a8" elementType="H" x3="-1.063642" y3="1.667505" z3="-1.366953"/>
+  <atom id="a9" elementType="H" x3="-2.264614" y3="2.964945" z3="-1.469647"/>
+  <atom id="a10" elementType="C" x3="0.515344" y3="2.779506" z3="0.611105"/>
+  <atom id="a11" elementType="H" x3="0.024195" y3="2.338902" z3="1.486162"/>
+  <atom id="a12" elementType="H" x3="1.276504" y3="3.478213" z3="0.976787"/>
+  <atom id="a13" elementType="H" x3="1.030690" y3="1.971068" z3="0.079948"/>
+  <atom id="a14" elementType="Cl" x3="0.371365" y3="4.178097" z3="-1.699772"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a1 a2" order="1"/>
+  <bond atomRefs2="a2 a3" order="1"/>
+  <bond atomRefs2="a2 a4" order="1"/>
+  <bond atomRefs2="a2 a5" order="1"/>
+  <bond atomRefs2="a1 a6" order="1"/>
+  <bond atomRefs2="a6 a7" order="1"/>
+  <bond atomRefs2="a6 a8" order="1"/>
+  <bond atomRefs2="a6 a9" order="1"/>
+  <bond atomRefs2="a1 a10" order="1"/>
+  <bond atomRefs2="a10 a11" order="1"/>
+  <bond atomRefs2="a10 a12" order="1"/>
+  <bond atomRefs2="a10 a13" order="1"/>
+  <bond atomRefs2="a1 a14" order="1"/>
+ </bondArray>
+</molecule>
